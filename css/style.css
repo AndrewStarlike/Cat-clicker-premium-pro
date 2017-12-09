@@ -1,0 +1,25 @@
+div#container {
+    width: 800px;
+    margin: 0 auto;
+}
+
+div#catBox {
+    float: left;
+}
+
+div#nav {
+    float: left;
+}
+
+div#panel {
+    clear: left;
+}
+
+button#admin {
+    float: left;
+}
+
+form#catDetails {
+    float: left;
+    margin-left: 20px;
+}
